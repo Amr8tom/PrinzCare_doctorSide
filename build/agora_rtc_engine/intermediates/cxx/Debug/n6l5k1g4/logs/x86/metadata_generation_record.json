@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 16 min SDK version: x86",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2107655923
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\.cxx\\Debug\\n6l5k1g4\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 738482027
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1667865604
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\.cxx\\Debug\\n6l5k1g4\\x86\u0027",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 14472731
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\.cxx\\Debug\\n6l5k1g4\\x86\u0027",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 570180903
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\agora_rtc_engine-6.3.0\\\\android\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d16\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-16\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\Apps\\\\preno_doctorSide\\\\build\\\\agora_rtc_engine\\\\intermediates\\\\cxx\\\\Debug\\\\n6l5k1g4\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\Apps\\\\preno_doctorSide\\\\build\\\\agora_rtc_engine\\\\intermediates\\\\cxx\\\\Debug\\\\n6l5k1g4\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\agora_rtc_engine-6.3.0\\\\android\\\\.cxx\\\\Debug\\\\n6l5k1g4\\\\x86\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 683511383
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\agora_rtc_engine-6.3.0\\\\android\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d16\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-16\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\Apps\\\\preno_doctorSide\\\\build\\\\agora_rtc_engine\\\\intermediates\\\\cxx\\\\Debug\\\\n6l5k1g4\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\Apps\\\\preno_doctorSide\\\\build\\\\agora_rtc_engine\\\\intermediates\\\\cxx\\\\Debug\\\\n6l5k1g4\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\agora_rtc_engine-6.3.0\\\\android\\\\.cxx\\\\Debug\\\\n6l5k1g4\\\\x86\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1059482120
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\.cxx\\Debug\\n6l5k1g4\\x86\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 724506493
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 217090172
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\.cxx\\Debug\\n6l5k1g4\\x86\\compile_commands.json to C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\.cxx\\tools\\debug\\x86\\compile_commands.json",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1512082963
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\agora_rtc_engine-6.3.0\\android\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2139804040
+  }
+]
