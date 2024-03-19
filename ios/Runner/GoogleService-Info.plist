@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>502524627923-ehedh8tl2bqs5omk2chgpc3ckka9rsjn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.502524627923-ehedh8tl2bqs5omk2chgpc3ckka9rsjn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>502524627923-1v3s195hvtbu2vul65alsp8hqhfb6erf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQMkAg7ATotl2epOis5EDZ5sn_OSnbYFQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>502524627923</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.retrytech.doctorFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>doctor-flutter-b8ff2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doctor-flutter-b8ff2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:502524627923:ios:9d680131f0c121cd14fd26</string>
+</dict>
+</plist>

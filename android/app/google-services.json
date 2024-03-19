@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750872239565",
+    "project_id": "prenodoctor",
+    "storage_bucket": "prenodoctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750872239565:android:582f29027ff0fbd8863884",
+        "android_client_info": {
+          "package_name": "com.prenodoctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSaYKLmvMMMIrjQBV0--MHv1YPF_WcP1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
