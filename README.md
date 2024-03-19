@@ -1,2 +1,0 @@
-# preno_doctorSide
- doctorSide
