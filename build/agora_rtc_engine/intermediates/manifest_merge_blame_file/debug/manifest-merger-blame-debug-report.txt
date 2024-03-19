@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="io.agora.agora_rtc_ng" >
+5
+6    <uses-sdk android:minSdkVersion="16" />
+6-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+7
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:5:3-64
+8-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:5:20-62
+9    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+9-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:6:3-72
+9-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:6:20-70
+10    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+10-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:7:3-69
+10-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:7:20-66
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:8:3-63
+11-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:8:20-60
+12    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+12-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:9:3-78
+12-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:9:20-75
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:10:3-74
+13-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:10:20-71
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:11:3-77
+14-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:11:20-74
+15
+16    <!-- The Agora SDK requires Bluetooth permissions in case users are using Bluetooth devices. -->
+17    <uses-permission android:name="android.permission.BLUETOOTH" />
+17-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:14:3-66
+17-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:14:20-63
+18    <!-- For Android 12 and above devices, the following permission is also required. -->
+19    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+19-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:16:3-74
+19-->C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:16:20-71
+20
+21</manifest>

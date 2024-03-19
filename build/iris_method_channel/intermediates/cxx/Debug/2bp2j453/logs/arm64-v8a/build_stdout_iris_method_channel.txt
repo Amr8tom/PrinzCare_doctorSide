@@ -1,0 +1,5 @@
+ninja: Entering directory `C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\iris_method_channel-2.0.1\android\.cxx\Debug\2bp2j453\arm64-v8a'
+[1/4] Building C object CMakeFiles/iris_method_channel.dir/dart-sdk/include/dart_api_dl.c.o
+[2/4] Building CXX object CMakeFiles/iris_method_channel.dir/iris_life_cycle_observer.cc.o
+[3/4] Building CXX object CMakeFiles/iris_method_channel.dir/iris_event.cc.o
+[4/4] Linking CXX shared library D:\Apps\preno_doctorSide\build\iris_method_channel\intermediates\cxx\Debug\2bp2j453\obj\arm64-v8a\libiris_method_channel.so

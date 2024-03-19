@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:5:3-64
+	android:name
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:5:20-62
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:6:3-72
+	android:name
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:6:20-70
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:7:3-69
+	android:name
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:7:20-66
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:8:3-63
+	android:name
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:8:20-60
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:9:3-78
+	android:name
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:9:20-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:10:3-74
+	android:name
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:10:20-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:11:3-77
+	android:name
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:11:20-74
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:14:3-66
+	android:name
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:14:20-63
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:16:3-74
+	android:name
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml:16:20-71
+uses-sdk
+INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amr alaa\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.0\android\src\main\AndroidManifest.xml

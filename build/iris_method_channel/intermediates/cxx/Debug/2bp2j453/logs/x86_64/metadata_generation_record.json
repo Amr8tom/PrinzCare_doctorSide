@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 16 min SDK version: x86_64",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1575084292
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\android\\.cxx\\Debug\\2bp2j453\\x86_64\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1447059004
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 422503142
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\android\\.cxx\\Debug\\2bp2j453\\x86_64\u0027",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1529791678
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\android\\.cxx\\Debug\\2bp2j453\\x86_64\u0027",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 931773130
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\iris_method_channel-2.0.1\\\\src\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d16\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-16\" ^\n  \"-DANDROID_ABI\u003dx86_64\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\Apps\\\\preno_doctorSide\\\\build\\\\iris_method_channel\\\\intermediates\\\\cxx\\\\Debug\\\\2bp2j453\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\Apps\\\\preno_doctorSide\\\\build\\\\iris_method_channel\\\\intermediates\\\\cxx\\\\Debug\\\\2bp2j453\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\iris_method_channel-2.0.1\\\\android\\\\.cxx\\\\Debug\\\\2bp2j453\\\\x86_64\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_static\"\n",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1236549204
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\iris_method_channel-2.0.1\\\\src\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d16\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-16\" ^\n  \"-DANDROID_ABI\u003dx86_64\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\Apps\\\\preno_doctorSide\\\\build\\\\iris_method_channel\\\\intermediates\\\\cxx\\\\Debug\\\\2bp2j453\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\Apps\\\\preno_doctorSide\\\\build\\\\iris_method_channel\\\\intermediates\\\\cxx\\\\Debug\\\\2bp2j453\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\amr alaa\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\iris_method_channel-2.0.1\\\\android\\\\.cxx\\\\Debug\\\\2bp2j453\\\\x86_64\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_static\"\n",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -909768563
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\android\\.cxx\\Debug\\2bp2j453\\x86_64\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -853701920
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1987508378
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\android\\.cxx\\Debug\\2bp2j453\\x86_64\\compile_commands.json to C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\android\\.cxx\\tools\\debug\\x86_64\\compile_commands.json",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1049983853
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\amr alaa\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.0.1\\src\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -49435294
+  }
+]
